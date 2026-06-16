@@ -33,3 +33,6 @@ This project details the building of a potentiometric chloride sensor. It is bui
 
 <img width="1080" height="516" alt="image" src="https://github.com/user-attachments/assets/06305028-f9eb-4d49-806d-5b42db26b5b3" />
 
+<img width="1110" height="728" alt="image" src="https://github.com/user-attachments/assets/def65e41-9067-4629-91f2-b677e7caf110" />
+
+
