@@ -30,3 +30,6 @@ This project details the building of a potentiometric chloride sensor. It is bui
 3) Take the solution and put it into aquarium tubing, and wait for it to solidify. This should take 2-3 minutes.
 4) Assemble the circuit detailed in the KiCad schematic.
 5) Test and calibrate with different chloride concentrations.
+
+<img width="1080" height="516" alt="image" src="https://github.com/user-attachments/assets/06305028-f9eb-4d49-806d-5b42db26b5b3" />
+
